@@ -1,4 +1,4 @@
-##spring-reactive-demo
+## spring-reactive-demo
 This Project is example of WebFlux, SpringBoot, Reactive, MongoDB.
 Project is contains a simple Task REST APIs (CRUD)
 
@@ -23,7 +23,7 @@ class Post {
 ```
 
 
-##Prerequisites
+## Prerequisites
 
 * Java 8, https://java.oracle.com
 * Apache Maven, https://maven.apache.org
